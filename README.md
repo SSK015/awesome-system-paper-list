@@ -15,13 +15,19 @@ A list for computer system papers reading
 - [Canvas](https://www.usenix.org/system/files/nsdi23-wang-chenxi.pdf) `NSDI23`
 - [Atlas](https://www.usenix.org/system/files/osdi24-chen-lei.pdf) `OSDI24`
 
+### RDMA Pointer Approach
+
+- [AIFM: High-Performance, Application-Integrated Far Memory](https://www.usenix.org/system/files/osdi20-ruan.pdf) `OSDI20`
+
 ## Network Related
 
 ### RDMA, Infiniband
 
 - [LITE Kernel RDMA Support for Datacenter Applications (ucsd.edu)](https://cseweb.ucsd.edu/~yiying/LITE-sosp17.pdf) `SOSP17`
 
+## RPC
 
+- [Datacenter RPCs can be General and Fast](https://www.usenix.org/system/files/nsdi19-kalia.pdf) `NSDI19`
 
 ## PL4Sys
 
@@ -49,7 +55,7 @@ A list for computer system papers reading
 
 ## CXL
 
-
+- [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (huaicheng.github.io)](https://huaicheng.github.io/p/asplos23-pond.pdf) `ASPLOS23`
 
 
 
