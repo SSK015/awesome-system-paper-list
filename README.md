@@ -25,9 +25,14 @@ A list for computer system papers reading
 
 - [LITE Kernel RDMA Support for Datacenter Applications (ucsd.edu)](https://cseweb.ucsd.edu/~yiying/LITE-sosp17.pdf) `SOSP17`
 
-## RPC
+## DataCenter Series
 
+- [Shenago](https://www.usenix.org/system/files/nsdi19-ousterhout.pdf) `NSDI19`
 - [Datacenter RPCs can be General and Fast](https://www.usenix.org/system/files/nsdi19-kalia.pdf) `NSDI19`
+
+- [Caladan](https://www.usenix.org/system/files/osdi20-fried.pdf) `OSDI20`
+- [Nu](https://www.usenix.org/system/files/nsdi23-ruan.pdf) `NSDI23`
+- [Junction](https://www.usenix.org/system/files/nsdi24-fried.pdf) `NSDI24`
 
 ## PL4Sys
 
