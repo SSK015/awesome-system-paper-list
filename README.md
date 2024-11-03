@@ -29,10 +29,20 @@ A list for computer system papers reading
 
 - [Shenago](https://www.usenix.org/system/files/nsdi19-ousterhout.pdf) `NSDI19`
 - [Datacenter RPCs can be General and Fast](https://www.usenix.org/system/files/nsdi19-kalia.pdf) `NSDI19`
-
 - [Caladan](https://www.usenix.org/system/files/osdi20-fried.pdf) `OSDI20`
 - [Nu](https://www.usenix.org/system/files/nsdi23-ruan.pdf) `NSDI23`
 - [Junction](https://www.usenix.org/system/files/nsdi24-fried.pdf) `NSDI24`
+
+#### SMT
+
+- [ Stretch: Balancing QoS and Throughput for Colocated Server Workloads on SMT Cores](https://ease-lab.github.io/ease_website/pubs/STRETCH_HPCA19.pdf) `HPCA19`
+- [Enhancements for Hyper-Threading Technology in the Operating System](https://www.usenix.org/legacy/publications/library/proceedings/wiess02/tech/full_papers/nakajima/nakajima.pdf) `WIESS02`
+
+#### Survey && Profiling
+
+- [Profiling a warehouse-scale computer](https://dl.acm.org/doi/pdf/10.1145/2749469.2750392) `ISCA15`
+
+
 
 ## PL4Sys
 
@@ -50,9 +60,10 @@ A list for computer system papers reading
 
 - [uops.info: Characterizing Latency, Throughput, and Port Usage of Instructions on Intel Microarchitectures (arxiv.org)](https://arxiv.org/pdf/1810.04610) `ASPLOS19`
 
-## Cache Improvement
+## Cache && TLB Improvement
 
 - [Improving the Utilization of Micro-operation Caches in x86 Processors](https://jbk5155.github.io/publications/MICRO_2020.pdf) `MICRO20`
+- [Rebooting Virtual Memory with Midgard](https://www.cs.yale.edu/homes/abhishek/sidgupta-isca21.pdf) `ISCA21`
 
 
 
@@ -61,6 +72,16 @@ A list for computer system papers reading
 ## CXL
 
 - [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (huaicheng.github.io)](https://huaicheng.github.io/p/asplos23-pond.pdf) `ASPLOS23`
+
+
+
+# PL
+
+### Code Translation
+
+- [Don’t Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation](https://dl.acm.org/doi/pdf/10.1145/3656406) `PLDI24`
+
+
 
 
 
