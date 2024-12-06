@@ -1,9 +1,24 @@
 # awesome-system-paper-list
 A list for computer system papers reading
 
-# Operating Systems and Runtime systems
+# Datacenter Systems
 
-## Disaggregate memory systems
+## Workload and Application Survey
+
+### Profiling Survey
+
+- [Profiling a warehouse-scale computer](https://dl.acm.org/doi/pdf/10.1145/2749469.2750392) `ISCA15`
+
+### Other Related
+
+- [Telescope: Telemetry for Gargantuan   Memory Footprint Applications](https://www.usenix.org/system/files/atc24-nair.pdf) `ATC24`
+- [Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications](https://par.nsf.gov/servlets/purl/10271670) `ISCA21`
+
+## Disaggregate memory
+
+### Survey
+
+- [Disaggregated Memory in the Datacenter: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10056149)
 
 ### RDMA Swap Approach
 
@@ -15,38 +30,55 @@ A list for computer system papers reading
 - [Canvas](https://www.usenix.org/system/files/nsdi23-wang-chenxi.pdf) `NSDI23`
 - [Atlas](https://www.usenix.org/system/files/osdi24-chen-lei.pdf) `OSDI24`
 
-### RDMA Pointer Approach
+### Library-based Approach
 
 - [AIFM: High-Performance, Application-Integrated Far Memory](https://www.usenix.org/system/files/osdi20-ruan.pdf) `OSDI20`
 
-## Network Related
 
-### RDMA, Infiniband
+
+## Network and Distributed Systems
+
+### Interconnect Optimization
 
 - [LITE Kernel RDMA Support for Datacenter Applications (ucsd.edu)](https://cseweb.ucsd.edu/~yiying/LITE-sosp17.pdf) `SOSP17`
 
-## DataCenter Series
+### Schedule
 
 - [Shenago](https://www.usenix.org/system/files/nsdi19-ousterhout.pdf) `NSDI19`
-- [Datacenter RPCs can be General and Fast](https://www.usenix.org/system/files/nsdi19-kalia.pdf) `NSDI19`
 - [Caladan](https://www.usenix.org/system/files/osdi20-fried.pdf) `OSDI20`
-- [Nu](https://www.usenix.org/system/files/nsdi23-ruan.pdf) `NSDI23`
 - [Junction](https://www.usenix.org/system/files/nsdi24-fried.pdf) `NSDI24`
 
-#### SMT
+### Distributed
+
+- [Nu](https://www.usenix.org/system/files/nsdi23-ruan.pdf) `NSDI23`
+
+### RPC
+
+- [Datacenter RPCs can be General and Fast](https://www.usenix.org/system/files/nsdi19-kalia.pdf) `NSDI19`
+
+
+
+## Exploring Unused Hardware Resource
+
+### SMT
 
 - [ Stretch: Balancing QoS and Throughput for Colocated Server Workloads on SMT Cores](https://ease-lab.github.io/ease_website/pubs/STRETCH_HPCA19.pdf) `HPCA19`
 - [Enhancements for Hyper-Threading Technology in the Operating System](https://www.usenix.org/legacy/publications/library/proceedings/wiess02/tech/full_papers/nakajima/nakajima.pdf) `WIESS02`
 
-#### Survey && Profiling
+### Cache OPT
 
-- [Profiling a warehouse-scale computer](https://dl.acm.org/doi/pdf/10.1145/2749469.2750392) `ISCA15`
-
-
+- [Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications](https://par.nsf.gov/servlets/purl/10271670) 
 
 ## PL4Sys
 
 - [Harvesting Idle Memory for Application-Managed  Soft State with Midas](https://www.usenix.org/system/files/nsdi24-qiao.pdf) `NSDI24`
+
+
+
+## Microservice
+
+- [CRISP: Critical Path Analysis of Large-Scale  Microservice Architectures](https://www.usenix.org/system/files/atc22-zhang-zhizhou.pdf) `ATC22`
+- [Datacenter Architectures for the Microservices Era](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/167978/miramir_1.pdf?sequence=1)`Phd dissertion`
 
 # CPU Micro Architecture
 
@@ -65,7 +97,9 @@ A list for computer system papers reading
 - [Improving the Utilization of Micro-operation Caches in x86 Processors](https://jbk5155.github.io/publications/MICRO_2020.pdf) `MICRO20`
 - [Rebooting Virtual Memory with Midgard](https://www.cs.yale.edu/homes/abhishek/sidgupta-isca21.pdf) `ISCA21`
 
+### ICache
 
+- [Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications](https://par.nsf.gov/servlets/purl/10271670) `ISCA21`
 
 # Emerging Hardware
 
