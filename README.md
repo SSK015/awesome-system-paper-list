@@ -4,6 +4,8 @@ A list for computer system papers reading
 ----
 ----
 
+![OS](images/225px-Tux.svg.png)
+
 # Operating Systems, System Software and Runtimes
 
 ## Workload and Application Survey
@@ -86,6 +88,7 @@ A list for computer system papers reading
 ----
 ----
 
+![Hopper](images/nvidia-mgx-hopper-nvl-ai-inference-server.jpg)
 # Architecture
 
 ## CPU ARCH
@@ -119,6 +122,11 @@ A list for computer system papers reading
 ### CXL
 
 - [Pond: CXL-Based Memory Pooling Systems for Cloud Platforms (huaicheng.github.io)](https://huaicheng.github.io/p/asplos23-pond.pdf) `ASPLOS23`
+
+
+
+
+![PL](images/sigplan-m-logo.png)
 
 
 
